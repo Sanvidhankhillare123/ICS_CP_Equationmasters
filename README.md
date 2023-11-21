@@ -1,9 +1,11 @@
  Environment Setup:
+
 C Compiler:
 Ensure you have a C compiler installed on your system. Popular choices include:
 
 GCC (GNU Compiler Collection): Available on Linux distributions. You can install it using package managers like apt-get (for Debian/Ubuntu) or yum (for Fedora).
 Clang: Another widely used C compiler available for various operating systems.
+
 Integrated Development Environment (IDE):
 You may also choose to use an Integrated Development Environment (IDE) such as Visual Studio Code, Dev-C++, Code::Blocks, or Xcode (for macOS) for a more user-friendly coding experience. 
 
