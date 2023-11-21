@@ -34,7 +34,6 @@ Run the compiled program from the terminal.
 This will start the program and display the menu in the terminal.
 
 Interact with the Program:
-
 Follow the on-screen instructions to choose an option (1, 2, 3, or 4) based on whether you want to solve a linear equation, quadratic equation, system of equations, or exit the program.
 Enter the required coefficients as prompted and follow the instructions displayed.
 
